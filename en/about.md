@@ -7,7 +7,7 @@ sidebar:
 # About LACIM
 
 The **Laboratoire d'Algèbre, de Combinatoire et d'Informatique Mathématique (LACIM)**
-is a institutional research center at [UQAM](http://www.uqam.ca)
+is an institutional research center at [UQAM](http://www.uqam.ca)
 that brings together researchers, postdoctoral fellows and students whose main
 research themes are rooted in combinatorics and its links to algebra and
 computer science.
