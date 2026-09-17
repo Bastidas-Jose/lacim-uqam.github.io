@@ -41,7 +41,7 @@ et André Joyal, professeurs du Département de mathématiques de l’UQAM.
 
 Les travaux de recherche de l’équipe en combinatoire ont débuté au début des
 années 1980 conjointement avec la mise sur pied du [Séminaire de Combinatoire
-du LACIM](/seminaire.html). Le recrutement du premier stagiaire postdoctoctoral
+du LACIM](/seminaire.html). Le recrutement du premier stagiaire postdoctoral
 date de 1986 et les membres de l’équipe ont obtenu leurs premières subventions
 communes à cette époque. C’est sur la base de ces subventions que ce groupe de
 recherche en combinatoire est devenu un « Centre Institutionnel » de l’UQAM en

@@ -35,5 +35,5 @@ interns.
 Our members are very active in conference organization;
 here are some upcoming conferences.
 
-- 3-7 juin 2024: [ISM Discovery School: Applications of Representation Theory in Topological Data Analysis & Geometric Invariant Theory](https://sites.google.com/view/montreal-rep-summer-school2024/)
-- 6-10 mai 2024: [ISM Discovery School: Advances in Geometric Combinatorics and Representation Theory: Flow Polytopes, Gentle Algebras, and Associated Posets](http://ism.uqam.ca/flow)
+- 3-7 June 2024: [ISM Discovery School: Applications of Representation Theory in Topological Data Analysis & Geometric Invariant Theory](https://sites.google.com/view/montreal-rep-summer-school2024/)
+- 6-10 May 2024: [ISM Discovery School: Advances in Geometric Combinatorics and Representation Theory: Flow Polytopes, Gentle Algebras, and Associated Posets](http://ism.uqam.ca/flow)

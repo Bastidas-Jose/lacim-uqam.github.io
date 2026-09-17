@@ -9,7 +9,7 @@ sidebar:
 
 ## Welcome to LACIM!
 
-**LACIM** is a institutional research center at [UQAM](http://www.uqam.ca)
+**LACIM** is an institutional research center at [UQAM](http://www.uqam.ca)
 that brings together researchers, postdoctoral fellows and students whose main
 research themes are rooted in combinatorics and its links to algebra and
 computer science.

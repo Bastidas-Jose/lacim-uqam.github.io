@@ -7,7 +7,7 @@ sidebar: true
 ## Séminaire du LACIM
 
 Le [Séminaire du LACIM](seminaire.html), créé au début des années 80, a lieu
-chaque semaine de septembre à juin (et parfois l’été) les vendredi de 11h
+chaque semaine de septembre à juin (et parfois l’été) les vendredis de 11h
 à midi au Pavillon Président-Kennedy de l’UQAM (PK-4323).
 [Consultez le site web du séminaire du LACIM](seminaire.html).
 
@@ -15,7 +15,7 @@ chaque semaine de septembre à juin (et parfois l’été) les vendredi de 11h
 
 Le
 [Séminaire de géométrie algébrique](https://cirget.uqam.ca/fr/seminaires.html#sminaire-de-gomtrie-algbrique---organis-par-brent-pym-jake-levinson-steven-lu-et-joel-kamnitzer)
-est organisé conjointment entre le
+est organisé conjointement entre le
 [LACIM](https://lacim.uqam.ca)
 et le
 [CIRGET](https://cirget.uqam.ca).
@@ -35,8 +35,8 @@ Pendant les mois de mai et juin, des présentations hebdomadaires sont organisé
 
 ## Conférences
 
-Nos membres sont actifs dans l'organisation de conférences;
+Nos membres sont actifs dans l'organisation de conférences ;
 voici des conférences à venir.
 
-- 3-7 juin 2024: [École découverte de l'ISM: Applications de la théorie des représentations à l'analyse des données topologiques et à la théorie des invariants géométriques](https://sites.google.com/view/montreal-rep-summer-school2024/)
-- 6-10 mai 2024: [École découverte de l'ISM: Avancées en Combinatoire Géométrique et en Théorie des Représentations. Polytopes de Flux, Algèbres Aimables et Posets associés](http://ism.uqam.ca/flow/fr/index.html)
+- 3-7 juin 2024 : [École découverte de l'ISM: Applications de la théorie des représentations à l'analyse des données topologiques et à la théorie des invariants géométriques](https://sites.google.com/view/montreal-rep-summer-school2024/)
+- 6-10 mai 2024 : [École découverte de l'ISM: Avancées en Combinatoire Géométrique et en Théorie des Représentations. Polytopes de Flux, Algèbres Aimables et Posets associés](http://ism.uqam.ca/flow/fr/index.html)
